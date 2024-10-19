@@ -21,3 +21,5 @@ This is a real-time weather monitoring system that fetches weather data from the
 ├── /main.py               # The entry point to run the application
 ├── /requirements.txt      # Dependencies for the project
 └── /README.md             # Project documentation
+
+![Dashboard](https://github.com/vishmeshram/weather-monitoring/blob/main/Screenshot%202024-10-19%20165111.png?raw=true)
