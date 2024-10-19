@@ -3,6 +3,7 @@
 ##Dashboard
 ![Dashboard](https://github.com/vishmeshram/weather-monitoring/blob/main/Screenshot%202024-10-19%20165111.png?raw=true)
 ![Dashboard](https://github.com/vishmeshram/weather-monitoring/blob/main/Screenshot%202024-10-19%20165144.png?raw=true)
+![Dashboard](https://github.com/vishmeshram/weather-monitoring/blob/main/Screenshot%202024-10-19%20165203.png?raw=true)
 
 
 
