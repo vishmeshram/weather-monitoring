@@ -22,4 +22,6 @@ This is a real-time weather monitoring system that fetches weather data from the
 ├── /requirements.txt      # Dependencies for the project
 └── /README.md             # Project documentation
 
+##Dashboard
 ![Dashboard](https://github.com/vishmeshram/weather-monitoring/blob/main/Screenshot%202024-10-19%20165111.png?raw=true)
+
