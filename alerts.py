@@ -19,9 +19,9 @@ def send_alerts(alerts):
 
 # Function to send email alert
 def send_email_alert(alert_message):
-    sender_email = "itzmevish15@gmail.com"
-    receiver_email = "itzmevish15@gmail.com"
-    password = "lzivzwzzroabgucz"  # Use App Password if needed
+    sender_email = "enter your email"
+    receiver_email = "enter receivers email"
+    password = "your app password"  # Use App Password if needed
     
     message = MIMEMultipart("alternative")
     message["Subject"] = "Weather Alert"
