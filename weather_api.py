@@ -1,7 +1,7 @@
 import requests
 import time
 
-API_KEY = 'ebeabc1b67241ca3215e7118fb273424'
+API_KEY = 'Enter your openweatherapi'
 CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
 API_URL = 'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={key}'
 
